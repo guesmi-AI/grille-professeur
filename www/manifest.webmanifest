@@ -1,0 +1,16 @@
+{
+  "name": "Grille Professeur — Calcul des points CUN",
+  "short_name": "Grille Prof",
+  "description": "Calcul des points pour la promotion au grade de Professeur, grilles 2026 et 2028 (AR / FR / EN).",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f6f8",
+  "theme_color": "#0f4c5c",
+  "lang": "fr",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

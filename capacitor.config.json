@@ -1,0 +1,6 @@
+{
+  "appId": "dz.univdjelfa.grilleprof",
+  "appName": "Grille Professeur",
+  "webDir": "www",
+  "android": { "backgroundColor": "#0f4c5c" }
+}

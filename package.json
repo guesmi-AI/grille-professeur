@@ -1,0 +1,20 @@
+{
+  "name": "grille-professeur",
+  "version": "1.0.0",
+  "description": "Calcul des points — promotion au grade de Professeur (CUN), grilles 2026 et 2028, AR/FR/EN",
+  "private": true,
+  "scripts": {
+    "test": "node test/calc.test.js",
+    "serve": "npx http-server www -p 8080 -c-1",
+    "sync": "npx cap sync android",
+    "android:debug": "npx cap sync android && cd android && ./gradlew assembleDebug",
+    "android:release": "npx cap sync android && cd android && ./gradlew bundleRelease"
+  },
+  "dependencies": {
+    "@capacitor/android": "^7.0.0",
+    "@capacitor/core": "^7.0.0"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^7.0.0"
+  }
+}

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Grille Professeur</string>
+    <string name="title_activity_main">Grille Professeur</string>
+    <string name="package_name">dz.univdjelfa.grilleprof</string>
+    <string name="custom_url_scheme">dz.univdjelfa.grilleprof</string>
+</resources>
